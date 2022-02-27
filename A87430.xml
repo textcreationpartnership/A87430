@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The judgement of foraign divines as well from Geneva as other parts, touching the discipline, liturgie, and ceremonies of the Church of England. Whereunto is added a letter from Mr. Iohn Calvin to Mr. Knox, concerning the English Common-Prayer, after he had purused the same. Now published for publick information and benefit.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87430</idno>
+            <idno type="STC">Wing J1176</idno>
+            <idno type="STC">Thomason E1040_16</idno>
+            <idno type="STC">ESTC R202627</idno>
+            <idno type="EEBO-CITATION">99866936</idno>
+            <idno type="PROQUEST">99866936</idno>
+            <idno type="VID">168951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168951)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1040[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The judgement of foraign divines as well from Geneva as other parts, touching the discipline, liturgie, and ceremonies of the Church of England. Whereunto is added a letter from Mr. Iohn Calvin to Mr. Knox, concerning the English Common-Prayer, after he had purused the same. Now published for publick information and benefit.</title>
+                  <author>Calvin, Jean, 1509-1564.</author>
+               </titleStmt>
+               <extent>32 [i.e. 18] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold in VVestminster Hal, Pauls-Church-yard, and Popes Head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Final page misnumbered 32.</note>
+                  <note>Annotation on Thomason copy: "Aug. 27.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgies --  Apologetic works --  Early works to 1800.</term>
+               <term>Church of England --  Discipline --  Early works to 1800.</term>
+               <term>Church of England. --  Book of common prayer --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168951:1" rendition="simple:additions"/>
+            <p>THE JUDGEMENT OF Foraign Divines AS WELL From <hi>Geneva</hi> as other parts, touching the Diſcipline, Liturgie, and Ceremonies of the Church of <hi>ENGLAND.</hi>
+            </p>
+            <p>Whereunto is added A Letter from Mr. IOHN CALVIN to Mr. <hi>Knox,</hi> concerning the Engliſh Common-Prayer, after he had pur<g ref="char:EOLhyphen"/>uſed the ſame.</p>
+            <p>
+               <hi>Now publiſhed for Publick Information and benefit.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold in <hi>VVeſtmin<g ref="char:EOLhyphen"/>ſter</hi> Hal, <hi>Pauls</hi>-Church-yard, and <hi>Popes Head-Alley.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="judgment">
+            <pb facs="tcp:168951:2"/>
+            <pb n="3" facs="tcp:168951:2"/>
+            <head>THE Iudgement of Foraign Divines touching the Diſcipline, Liturgie and Ceremonies of the Church of ENGLAND.</head>
+            <head type="sub">The Anſwer of the Miniſters of <hi>Geneva</hi> to certain Brethren of the Church of <hi>England</hi> concern<g ref="char:EOLhyphen"/>ing ſome controverſie in the Ec<g ref="char:EOLhyphen"/>cleſiaſtical Policy.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing right earneſtly and often re<g ref="char:EOLhyphen"/>quired by certain dear Brethren of <hi>England,</hi> that we ſhould in their miſerable eſtate give them ſome kind of counſel, whereon their conſciences might be ſtaid, the judgement of many being therein divers; we did long defer the ſatisfying of their requeſt upon weighty cauſes. And we aſſure the Reader
+<pb n="4" facs="tcp:168951:3"/>that even now alſo we moſt gladly would hold our peace, were it not a matter of conſcience to reject the ſuit of the Brethren ſo often inforced, and with moſt grievous groanings renewed.</p>
+            <p>Of which ſtifned ſilence of ours theſe were the cauſes: Firſt, As on the one part we doubt not of the credit of the Brethren, as though they had not ſincerely deſcribed the ſtate of the cauſe unto us, ſo on the other ſide it is moſt hard for to ſuſpect ſuch things, ſo clean beſide all Office of Biſhops, much leſs perſwade our ſelves the ſame by ſuch perſonages done.</p>
+            <p>And further, what men are we that we ſhould determine upon ſuch cauſes? Alſo, if it were lawful for us either by authority, or elſe by conſent or requeſt of either par<g ref="char:EOLhyphen"/>ties, to give ſentence hereupon, yet were it a matter moſt wrongful, either party not heard, or not preſent to determine.</p>
+            <p>Laſt of all, Fear miſtruſted, leaſt ſo great a miſcheif ſhould by this our counſel (how ſimple ſoever it is) rather become raw then skinned; it being a ſore of ſo deſpe<g ref="char:EOLhyphen"/>rate a nature, as that it ſeemeth to be, that prayers and patience can onely ſalve the ſame.</p>
+            <p>Seeing then that by the ſundry requeſts of the Brethren, we are ſo hardly perſwaded, that of force we ought to give them ſome kind of adviſe: We do openly proteſt,
+<pb n="5" facs="tcp:168951:3"/>that we ſo give the ſame herein, as thoſe that will not in any wiſe prejudice the other party, muchleſs challenge to us a Juſti<g ref="char:EOLhyphen"/>ciers room over any. And all thoſe men (into whoſe hands theſe do come) we do in the Lord deſire, that they be not herewith offended, but do perſwade themſelves that theſe contents are both ſimple and faithfully written of us, as upon a queſtioned cauſe granted, that the conſciences of the Bre<g ref="char:EOLhyphen"/>thren which deſire it, might ſome way be better appeaſed, which to ſet altogether at naught were a deed wholly void of cha<g ref="char:EOLhyphen"/>rity.</p>
+            <p>Therefore the cauſe ſtanding, as we are informed, we profeſs plainly and in good faith, that our judgements over theſe que<g ref="char:EOLhyphen"/>ſtions are thus.</p>
+            <p>It is demanded, <hi>Whether we can approve this diſorder in calling of men to the functi<g ref="char:EOLhyphen"/>on of the Minſtry, which is, that the multi<g ref="char:EOLhyphen"/>tude of thoſe which ſue for Order ſhall be in<g ref="char:EOLhyphen"/>rolled in the Miniſtry, both without the voy<g ref="char:EOLhyphen"/>ces of Elders, and alſo no certain cure appoint<g ref="char:EOLhyphen"/>ed them, but lightly examined of their lives and behaviour, to whom alſo at the luſt of the Biſhop ſhall liberty be given afterwards to preach the Word of God for a time preſcri<g ref="char:EOLhyphen"/>bed, otherwiſe to rehearſe onely the Church Service?</hi>
+            </p>
+            <p>We anſwer, That ſuch callings of Mini<g ref="char:EOLhyphen"/>ſters, whether we anſwer them by the rule of
+<pb n="6" facs="tcp:168951:4"/>Gods expreſs Word, or elſe by force of Cannons that are beſt tried and allowed, are holden and eſteemed of us altogether un<g ref="char:EOLhyphen"/>lawful, albeit we know that it is better to have half a loaf then no bread. But we be<g ref="char:EOLhyphen"/>ſeech God with our whole hearts, that it alſo will pleaſe him to beſtow upon the Kingdom of <hi>England</hi> alſo the ſame (that is) a lawful and ordinary calling of men to the Miniſtry of the Word and Sacraments. For it being either kept out or hindred, the be<g ref="char:EOLhyphen"/>nefit of the Doctrine of Truth, muſt of force by and by vaniſh away, or elſe be held up by ſome means that is ſtrange, yea, alto<g ref="char:EOLhyphen"/>gether ghoſtly and ſupernatural.</p>
+            <p>Furthermore we do in Gods moſt holy Name, moſt humbly ſue to the Princeſs So<g ref="char:EOLhyphen"/>veraign Majeſty, that with the whole force of her mind, ſhe endeavour the correction of this point, wherein the whole ground and ſtay of the Church of <hi>England,</hi> and therefore of the Realm alſo doth ſtand and perſiſt.</p>
+            <p>And thirdly, we do with tears beſeech both thoſe high Perſonages that are of her Majeſties honourable Council, and thoſe which have ſucceeded in the place of the Popiſh Biſhops (undoubtedly through the ſpecial mercy of the high and good God) that they out of the ſelf-ſame place where overthrow and deſtruction did iſſue, they ſhould utterly deſtroy that tyranny which
+<pb n="7" facs="tcp:168951:4"/>hath thus caſt down headlong the very Chri<g ref="char:EOLhyphen"/>ſtian Church, and we crave of them in the dreadful Name of God, before whoſe re<g ref="char:EOLhyphen"/>doubted throne of Judgement we all ſhall be arreſted, that with all conſideration and mindfulneſs of the years paſt, and conſci<g ref="char:EOLhyphen"/>ence of their duty and charge, they will not flack to vow and betroth their whole diligence, as well in ordering the means that may accompliſh this thing, as in perſwading the Queens Majeſty thereto, and that they ceaſe not at all, this thing being unachieved, chiefly ſeeing God hath beſtowed upon them, the Princely Majeſty of ſo ſingular a Miſtris as from whoſe hands they cannot but hope for all princely and excellent things, unleſs they liſt in their own caſe to fail them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>But ſome will ask, how ſhall we do in this point, until then? Verily if the caſe were ours we would not receive this mini<g ref="char:EOLhyphen"/>ſtery upon theſe conditions if it were prof<g ref="char:EOLhyphen"/>fered; a great deal leſs would we ſue for it. Notwithſtanding, we exhort theſe men to whom God hath by this way made en<g ref="char:EOLhyphen"/>trance to the enlarging of the glory of his Kingdom, that in the fear of God they do couragiouſly abide therein, yet with the condition that it may be lawful for them ho<g ref="char:EOLhyphen"/>lily and religiouſly to exerciſe all their whole Miniſtery. And therefore may alſo pro<g ref="char:EOLhyphen"/>pound, and urge thoſe things in their cures
+<pb n="8" facs="tcp:168951:5"/>which do always appertain to the advance<g ref="char:EOLhyphen"/>ment of the better eſtate therein. For o<g ref="char:EOLhyphen"/>therwiſe, if they be forced of this liberty, and ſo willed to wink at manifeſt abuſes, that they ſhould alſo approve theſe things which doubtleſs ought to be redreſſed: what thing elſe can we perſwade them then that they ſhould retire from this, to their private life, rather then without conſci<g ref="char:EOLhyphen"/>ence to nouriſh that miſchief which doth of force draw with it the whole waſting and decay of all the Congregation? Yet we hope that the Queens Highneſs, and ſo many honourable and good men will in ſuch ſort plant their diligence, that rather priviledge of liberty may be granted to the conſciences of ſo many godly and learned brethren, then that theſe horrible evils ſhould follow: To wit, that the Paſtors of the flocks ſhould be conſtrained either a<g ref="char:EOLhyphen"/>gainſt the ſoundneſs of their conſciences to do that which is evil (and ſo to be chained in other mens ſins, or elſe to reſign their miniſtery, for that third neceſſity that will enſue this, which is, that againſt the Princes and Biſhops wills, they ſhould exerciſe their office) we do ſo much the more tremble at, becauſe of thoſe reaſons which of themſelves are plain enough, albeit we do not utter them.</p>
+            <p>It is alſo deſired of us to anſwer, plainly and truly, <hi>Whether we do allow the diſtinction
+<pb n="9" facs="tcp:168951:5"/>ordained in the wearing of copes and garments as well for the common uſe, as for the mini<g ref="char:EOLhyphen"/>ſtery.</hi>
+            </p>
+            <p>We therefore do flatly anſwer, the cauſe ſtanding as we do underſtand, that thoſe men that are authors hereof do deſerve moſt evil of the Church and ſhall anſwer at the dreadful bar of Chriſt his Judgement. For although that we think that that politique order whereby not Citizens alone, but alſo the degrees of functions are marked and no<g ref="char:EOLhyphen"/>ted is not to be diſcommended, wholly a all: yet we are of opinion that not every mark and note is ſtraight way to be uſed. For put the caſe that the Miniſters were comman<g ref="char:EOLhyphen"/>ded to wear the pide coat of a fool, or the garment of a vice in a play, were it not ma<g ref="char:EOLhyphen"/>nifeſt ſcorning of the Miniſtery ſo to do? And thoſe that uſe theſe other garments and apparrel commanded, do ſeem verily to us to treſpaſs ſomewhat worſe then ſo, becauſe that the Lord hath not only reared and ſet us this Prieſtlike apparel, as a toy to be laughed at even of many of the Papiſts themſelves: But it is alſo certain, that the ſame is polluted and defiled with infinite ſu<g ref="char:EOLhyphen"/>perſtition. But ſome men will plead the an<g ref="char:EOLhyphen"/>tiquity thereof. Surely they are old, and yet the Apoſtolique ſimplicity wherein the Church did flouriſh, is a great deal more ancient then this. Alſo, if it pleaſe him to wade yet further to ſearch about theſe mat<g ref="char:EOLhyphen"/>ters,
+<pb n="10" facs="tcp:168951:6"/>it ſhall be eaſie enough to ſhew that theſe things which after that, did ſerve for the note and mark of the Miniſtery were firſt uſual among the people, and common. And therefore whence commeth it, things being altered after ſo long a ſeaſon, that this for<g ref="char:EOLhyphen"/>reign and ſtrange guiſe ſhould be retained.</p>
+            <p>Doth it not come of a zeal both evil and unprofitable? But ſome men will ſay, theſe things for all that are of the middle ſort, and indifferent. We grant indeed that they are ſuch, if you will conſider them ſimply, and in their own nature, and apart from all circum<g ref="char:EOLhyphen"/>ſtances; but who are they that will ſo weigh and conſider them? For theſe men that are yet Papiſts, what purpoſe ſoever this civil Law doth pretend are ſurely by this meanes eſta<g ref="char:EOLhyphen"/>bliſhed deeper in this ſuperſtition which hath ſo overgrown them. And theſe men that be<g ref="char:EOLhyphen"/>gan ſo earneſtly to abhor ſuperſtition, that they now did deteſt monuments and reliques thereof. How much are they offended and wounded herein? As for thoſe which are fur<g ref="char:EOLhyphen"/>ther, and better learned, what fruit reap they thereof.</p>
+            <p>And further, is this difference and mark of the functions of ſuch importance, that there<g ref="char:EOLhyphen"/>fore the conſciences of ſo many ſhould be trou<g ref="char:EOLhyphen"/>bled: eſpecially ſeeing the reaſon and pur<g ref="char:EOLhyphen"/>poſe thereof newly ſet a broach is but drawn even from thoſe that are themſelves the mani<g ref="char:EOLhyphen"/>feſt ſworn enemies to ſound doctrine? What
+<pb n="11" facs="tcp:168951:6"/>meaneth it alſo, that of thoſe alſo that are termed to be Eccleſiaſtically brought up and are in the Miniſtery not the ſmalleſt part are ſaid to have their Papiſtry in their breaſts about with them? Is this the good hour where<g ref="char:EOLhyphen"/>in they ſhall better profit by reſtoring of this attire? Or ſhall they not rather vaunt their creſts as in hope to have Popery reſtored again? If any ſhall object the circumciſing of <hi>Timothy,</hi> and otherlike examples: we right earneſtly pray him to conſider what <hi>Paul</hi> would have ſaid, if any man ſhould have made this Law, that every man that is in the Mini<g ref="char:EOLhyphen"/>ſtery of the Goſpel, ſhall be conſtrained to wear the Garments of the Phariſees, or that they in the apparel of prophane Prieſts ſhould Preach the Goſpel, and adminiſter the Sacraments, and not onely circumciſe their children, notwithſtanding, that under ſome colour of reaſon, this civil commandement might ſet forth the ſame; yea to what end are theſe things brought in? for howſoever they might at firſt be to lerated, till that by little and little they might be taken away, yet be<g ref="char:EOLhyphen"/>ing once removed out of the Churches, we ſee not with what commodity they can be reſto<g ref="char:EOLhyphen"/>red to their poſſeſſion again. Therefore we do eftſoons repeate that we before ſaid, that we cannot allow this deviſe, nor yet hope for any good to enſue thereof. Notwithſtand<g ref="char:EOLhyphen"/>ing, we will gladly give over this opinion, if we ſhall learn better reaſon therefore. What
+<pb n="12" facs="tcp:168951:7"/>then (will the brethren ſay on whom theſe things are ſo thrown) judge you what we ought to do herein? We anſwer, that there needeth in this anſwer a diſtinction. For the caſe of the Miniſters, and the caſe of the peo<g ref="char:EOLhyphen"/>ple are not all one herein; Furthermore, many things may, yea, and ought to be born and tollerated, which are notwithſtanding not juſtly commanded. Firſt, therefore we an<g ref="char:EOLhyphen"/>ſwer, that albeit theſe things (as we judge) are not rightly reſtored to their poſſeſſion in the Congregations, yet, ſeeing that they are not of thoſe kind of things which are of their own nature impious and ungodly, they ſeem to us not to be of ſuch weight, that the Shep<g ref="char:EOLhyphen"/>heards ſhould rather give over their functions, than receive the apparel, or that the flock ſhould refuſe the publike food of the ſoul, rather then to receive the ſame from the Shep<g ref="char:EOLhyphen"/>heards that is apparelled herein: onely, that as well the Shepheards, as their flocks may not ſin againſt their conſciences (ſo that the purity of Doctrine it ſelf remain untouched) we do perſwade the Miniſters, after they have both before the Queens highneſs, and alſo before the Biſhops, ſet their conſciences at liberty by modeſt proteſtation (as doth apper<g ref="char:EOLhyphen"/>taine to ſuch Chriſtians as ſeek not ſedition and tumult) and yet grave according to the importance of the cauſe, that they do indeed openly in their pariſh, ſtill beat upon thoſe things that may ſerve to the utter taking
+<pb n="13" facs="tcp:168951:7"/>away of the ſtumbling block. And that as God ſhall give occaſion they will wholly give themſelves both wiſely and meekly to correct all thoſe abuſes, but yet to bear thoſe things which they cannot ſtreight way charge, rather then forſaking their Congregation they ſhould give occaſion to Sathan, that ſeeking nothing elſe to ſtir up greater and more perilous miſ<g ref="char:EOLhyphen"/>chiefs then theſe. As for the people (the doctrine remaining unhurt) we do exhort them that for all theſe things they will diligently hear the ſame, to uſe the Sacraments religi<g ref="char:EOLhyphen"/>ouſly, and ſo long to groan to God with ear<g ref="char:EOLhyphen"/>neſt amendment of life until thy obtain of him that which doth appertain to the full redreſs and amendment of the Church.</p>
+            <p>But again, if that Miniſters be commanded not onely to tollerate theſe things, but alſo that they ſhall with their ſubſcriptions allow them as lawful, or elſe by their ſtilneſs foſter them, what can we elſe perſwade them to do, but that having witneſſed their innocency <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in the fear of the Lord tryed all meanes, they ſhould give over their functions to open wrong. But our hearts betide us of <hi>Eng<g ref="char:EOLhyphen"/>la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> much better things then theſe extremi<g ref="char:EOLhyphen"/>ties.</p>
+            <p>It is demanded of us, <hi>what we do judge of the trolling and diſcanning of the Pſalmes, croſ<g ref="char:EOLhyphen"/>ſing of thoſe babes that ſhall be baptized, and of the demands in baptiſme, alſo of the round
+<pb n="14" facs="tcp:168951:8"/>unleavened waffer cake, and kneeling in the Lords Supper.</hi>
+            </p>
+            <p>We anſwer, that kind of ſinging ſeemeth to be the corruption of the pure ancient Church ſervice, and glorifying of God therein. And as for croſſing of babes, whatſoever practice there hath been thereof in the time of old, yet is it moſt certain that it is truly in theſe days through ſo late greenneſs of the ſuperſtition ſo moſt abominable, as that we judge thoſe men to have done aſſuredly well that have once driven this Rite out of the Congregation, whereof alſo we ſee not what the profit is. And we doubt not but the de<g ref="char:EOLhyphen"/>mands in Baptiſme have crept into the Church upon this occaſion, becauſe that through the negligence of the Biſhops the ſame forme of baptizing of children was retained, which at the firſt rearing of the Primative Church, was to be uſed at the baptizing of thoſe that being of years did enter the profeſſion of Chriſt. This thing alſo we may perceive by many the like yet in uſe in the popiſh baptiſme. Wherefore even as the cream and charm uſed in baptiſme are by Gods Law aboliſhed, although they were ancient, ſo wiſh we alſo theſe demand<g ref="char:EOLhyphen"/>ings, being not onely vaine but fooliſh, ſhould be alſo paſſed over, albeit that <hi>S. Auguſtine</hi> himſelf doth ſeem in an Epiſtle of his to ſu<g ref="char:EOLhyphen"/>ſtaine it by certain deviſed conſtruction.</p>
+            <p>The bread, whether it ought to be made
+<pb n="15" facs="tcp:168951:8"/>with leaven or without, we think it not great<g ref="char:EOLhyphen"/>ly to be ſtriven for, although we judge it mor<g ref="char:EOLhyphen"/>fit and conſonant with Chriſts inſtitution to have the bread at the Communion, which is uſed at the common table; for why did the Lord uſe unleavened bread? becauſe that in that hour wherein he thought good to inſti<g ref="char:EOLhyphen"/>tute his holy Supper, not one man in all <hi>Jewry</hi> uſed any other. Therefore it behoveth us to reſtore the <hi>Jewiſh</hi> feaſt of unleavened bread, or elſe muſt it be granted, that tis better to uſe the common and accuſtomed bread of all Ta<g ref="char:EOLhyphen"/>bles, according to the example of Chriſt, not<g ref="char:EOLhyphen"/>withſtanding that the bread that he then took was unleavened: For of the practiſe of the Primative Church which the Greek Church doth yet in this behalf retain, we over paſſe to write of.</p>
+            <p>Furthermore, kneeling at the very receipt of the Sacrament, hath in it a ſhew of Godly and Chriſtian reverence, and might there<g ref="char:EOLhyphen"/>fore in times paſt be uſed with profit, yet for all that, becauſe out of this fountain the de<g ref="char:EOLhyphen"/>teſtable uſe of bread-worſhip did follow, and doth it in theſe days ſtick in many minds, it ſeemeth to us that it was juſtly aboliſhed out from the Congregation. Therefore, we do beſeech the moſt good and great God, that it would pleaſe him to inſtruct both the Q. Maje<g ref="char:EOLhyphen"/>ſties highneſs, and alſo the Biſhops with ſuch deviſe as ſhall be moſt needful for the perfect doing out of theſe filthes, and that at once. In
+<pb n="16" facs="tcp:168951:9"/>mean time, becauſe theſe things, alſo are not ſuch as are in their own nature Idolatrous, we do judge that they ought ſo to be dealt with, as we have adviſed in the things going next before.</p>
+            <p>It is demanded of us, <hi>whether we allow that Baptiſme which is adminiſtred by Mid<g ref="char:EOLhyphen"/>wives?</hi>
+            </p>
+            <p>We anſwer, that not only we diſallow the Baptiſme as the reſt of things before ſpoken of, but that we do judge it alſo intolerable. For it is a thing that hath riſen as well of ig<g ref="char:EOLhyphen"/>norance of the very uſe or Baptiſme, as the publique miniſtery of the Church. We judge therefore that the Miniſters are bound ſharply to rebuke this abuſe, muchleſs ought they to hold this falſe baptiſme for good and firm. the reaſon why the learned on our ſide have often declared. And we are alſo ready when it ſhall be needful to declare.</p>
+            <p>It is alſo reported unto us, <hi>that the keys of binding and looſing are practiſed in certain courts of the Biſhops, neither by the ſentences and judgments of Elders, which office that Church hath not yet received, nor acording to the word of God: But the authority of certain Lawyers and other like, which is more, often times by the authority of ſome one man, and that alſo for ſuch kind of actions as are pure money
+<pb n="17" facs="tcp:168951:9"/>matters, even as the miſuſe of the ſame was in Popery.</hi>
+            </p>
+            <p>Whereto we anſwer that it ſeemeth to us almoſt incrediable that any ſuch cuſtomes and examples (being moſt perverſe) ſhould be uſed in that Kingdome, whereas purity and ſoundneſs of Doctrine is. For the right of excommunication and binding of the offen<g ref="char:EOLhyphen"/>der ſhall be found never to have been before the time of the Papiſts in the power and hand of one ſole perſon, but did appertain to all the whole Elderſhip, from which alſo the people themſelves were not raſhly ſhut out. Becauſe this alſo the Lawyers-like hearing of ſuits that appertain to livings did fall to the Bi<g ref="char:EOLhyphen"/>ſhops charge altogether through abuſe. For that place wherein the Apoſtle talketh of days-men, umpires at <hi>Corinth,</hi> is to no purpoſe, whereas the Majeſtrate is a Chriſtian: nor did the Apoſtle ever think to burthen the Elder<g ref="char:EOLhyphen"/>ſhip with the hearing of ſuch meer civil cau<g ref="char:EOLhyphen"/>ſes. And it is moſt certain, that the Biſhops of the elder Age of the Church, have had the determining of ſuch controverſies, not for any authority that they had therein, but through the importunity of ſuters, and that as houſhoulders, umpires and dayes-men alſo, notwitſtanding among thoſe men where this were ſhewed unto, thoſe did moſt wiſely go<g ref="char:EOLhyphen"/>vern themſelves which choſe rather to follow the example of Chriſt our Saviour, who re<g ref="char:EOLhyphen"/>fuſed
+<pb n="18" facs="tcp:168951:10"/>to be the umpire in dividing of the pa<g ref="char:EOLhyphen"/>trimony, or elſe judge in the matter of adul<g ref="char:EOLhyphen"/>tery, when both the ſame were preferred un<g ref="char:EOLhyphen"/>to him.</p>
+            <p>Therefore, if in England any thing be done contrary to this, ſurely we ought to think that by ſuch ſentences and judgements, there is not any man before God any more bound then by the Popiſh excommunications. And we wiſh that this torment-houſe of conſci<g ref="char:EOLhyphen"/>ences and lothſome prophanation of the Ec<g ref="char:EOLhyphen"/>cleſiaſtical and meer ſpiritual juriſdiction might by the authority of the Queens Maje<g ref="char:EOLhyphen"/>ſtie out of hand be aboliſhed, no otherwiſe then the marring of the very Doctrine it ſelf. And that Elderſhip and Deacons may be re<g ref="char:EOLhyphen"/>ſtored and ſet up according to the word of God and canons of the pure Church, which thing, if it be not done, verily we are ſore afraid that this onely thing will be the begin<g ref="char:EOLhyphen"/>ning of many calamities which we would God would turn away from us. For it is moſt cer<g ref="char:EOLhyphen"/>tain that the ſon of God will one day from heaven roughly revenge theſe manifeſt abuſes, wherewith the conſciences of our brethren are troubled, except ſpeedy redreſs be had therein.</p>
+            <p>In the mean whiles, the things which are not well done by the one party, may be well enough tolerated (as we think) by thoſe men which bear the thing which they cannot change. Yet thus far, as that they allow not
+<pb n="19" facs="tcp:168951:10"/>the thing it ſelf for good, but do onely re<g ref="char:EOLhyphen"/>deem their unjuſt diſquieting by patience. But if ſo be that they ſhall be forced, not one<g ref="char:EOLhyphen"/>ly to tolerate this faction but alſo to approve this excommunication as lawful, and be con<g ref="char:EOLhyphen"/>ſtrained to ask unlawful abſolution; to aſſent to this manifeſt abuſe, we then exhort them that they will rather ſuffer any kind of trou<g ref="char:EOLhyphen"/>ble then to do herein againſt their conſcien<g ref="char:EOLhyphen"/>ces. But to what end is all this? For verily, we do promiſe our ſelves much better things then theſe, yea, of all things the beſt even at this pinch, eſpecially of that realm, in which the reſtoring of Chriſtian Religion hath been ſealed and confirmed with the blood of ſo ma<g ref="char:EOLhyphen"/>ny excellent Martyrs alſo. Onely we fear this, leaſt that which hath befallen ſo many Contries ſhould happen to <hi>England,</hi> to wit, leaſt becauſe the due fruits of repentance are not brought forth, the angry God ſhould double our darkneſs, the light of his Goſpel being firſt taken from us. Of this contents are our dayly Preachings in our Congregations, and verily we think the ſame ought to be done of all Miniſters of Gods word, eſpecially in theſe our dayes. That they chiefly ſet forwards this principle of the Goſpel which doth an<g ref="char:EOLhyphen"/>pertain to earneſt amendment of life. For this point atchieved, undoubtedly the Lord ſhall give both counſel and zeal and all things elſe which do neceſſarily appertaine to the accompliſhment of the reparation of the
+<pb n="10" facs="tcp:168951:11"/>Church, already begun. And before all we do require, and with tears humbly crave, that our good and right worſhipful in the Lord, the brethren of the Engliſh Churches, all bitterneſs of mind ſet a part, which we ſurely fear, after what ſort it hath on either fide forced this evil, would patiently bear and ſuffer each other, ſo long as purity of Chriſtian doctrine it ſelf, and ſoundneſs of conſcience doth remain, Willingly to obey the Queens Majeſty, who is full of compaſſion, and all other Prelates. And finally, that with all concord minds in the Lord, if they manly ſet againſt Satan, who ſeeketh all occaſion of tumult and infinite calamities: yea, al<g ref="char:EOLhyphen"/>though they have not like judgment of all forts of Prelates at the firſt. For this our writing God is our witneſs, doth not tend to this purpoſe, that either part ſhould uſe it againſt other as that we ſhould ſend it to you as an Apple of contention: Although we have concerning theſe matters declared our judgments, even ſimply, as upon a ſuppoſed caſe, (God is our witneſs) being overcome with the continual ſuit of our brethren. And we joyne our daily prayers to the groanings of all the godly on that ſide the Seas, that it may pleaſe the moſt merciful God, having com<g ref="char:EOLhyphen"/>paſſion on mans frailite, to direct the Queens highneſs, and all the Nobles of the Realm of <hi>England.</hi> Alſo every prelate; and finally cack workman of this ſpiritual building with
+<pb n="15" facs="tcp:168951:11"/>his holy Spirit moſt effectuouſly, ſo as the work of the Lord ſo often begun, and ſo often ſtay<g ref="char:EOLhyphen"/>ed, may happily be ſet forward, to the great quietneſs and concord of all men, not onely the old ſtaines in the doctrine it ſelf and Ec<g ref="char:EOLhyphen"/>cleſiaſtical diſcipline alſo, being at length ut<g ref="char:EOLhyphen"/>terly done out, but alſo all monſtrouſneſs offerers, and which Satan newly ſeeketh, to bring into the Church again, driven away. which vouchſafe to bring to paſs through his holy ſpirit, the moſt kind father in Jeſus Chriſt, his very ſon eternal and conſubſtantial with him, in which perſons, we profeſs one God, and not divers, ought to be worſhipped for ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>At <hi>Geneva</hi> 
+                  <date>the 24. <hi>October</hi> 1547.</date>
+               </dateline>
+               <signed>
+                  <hi>Your brethren in Chriſt to all your godli<g ref="char:EOLhyphen"/>neſſe moſt aſſured,</hi>
+                  <list>
+                     <item>
+                        <hi>Theodorus Beza, &amp;c.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Gaiagnaezius.</hi>
+                     </item>
+                     <item>
+                        <hi>Ge. Favergius.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Parnillus.</hi>
+                     </item>
+                     <item>
+                        <hi>Slm. Golerlius.</hi>
+                     </item>
+                     <item>
+                        <hi>Cor. Barlierdus.</hi>
+                     </item>
+                     <item>
+                        <hi>Remundus Calvetus.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Tremlerus.</hi>
+                     </item>
+                     <item>
+                        <hi>Car. P.</hi>
+                     </item>
+                     <item>
+                        <hi>Kuds Faverius.</hi>
+                     </item>
+                     <item>
+                        <hi>Pet. Carpenterus.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. S.</hi>
+                     </item>
+                     <item>
+                        <hi>Nicolas Coladonus.</hi>
+                     </item>
+                     <item>
+                        <hi>Johan. Pinaldus.</hi>
+                     </item>
+                     <item>
+                        <hi>Egid. Cauſcus.</hi>
+                     </item>
+                     <item>
+                        <hi>Vrb. Calvetus.</hi>
+                     </item>
+                     <item>
+                        <hi>Franſc. Portus.</hi>
+                     </item>
+                     <item>
+                        <hi>Abden. Dupleus.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="22" facs="tcp:168951:12"/>
+            <head>A Coppie of the Letter ſent to the Biſhops and Paſtors of England, who hath renounced the Roman Anti<g ref="char:EOLhyphen"/>chriſt, and profeſs the Lord Jeſus Chriſt in ſincerity.</head>
+            <head type="sub">The ſuperintendent Miniſters, and Commiſſio<g ref="char:EOLhyphen"/>ners of charges within the Realm of <hi>Scotland:</hi> To their Brethren the Biſhops and Paſtors of <hi>England,</hi> who hath renounced the Roman An<g ref="char:EOLhyphen"/>tichriſt, and do profeſs with them the Lord Jeſus in ſincerity, deſire the perpetual increaſe of the holy Spirit.</head>
+            <p>BY word and writ, it is come to our know<g ref="char:EOLhyphen"/>ledge (reverend Paſtors) that divers of our deareſt brethren, amongſt whom are ſome of the beſt learned within that Realm, are deprived from Eccleſiaſtical function, and forbidden to preach, and ſo by you that they are ſtraight to promote the Kingd me of Je<g ref="char:EOLhyphen"/>ſus Chriſt, becauſe their conſciences will not ſuffer to take upon them (at the comman<g ref="char:EOLhyphen"/>dement of the authority) ſuch garments as Idolaters in time of blindneſs have uſed in their Idolatry, which brute cannot be but
+<pb n="23" facs="tcp:168951:12"/>moſt dolorous to our hearts, mindful of that ſentence of the Apoſtle, ſaying, If ye bite and devoure one another; take heed leaſt ye be conſumed one of another. We pur<g ref="char:EOLhyphen"/>poſe not at this preſent to enter into the ground of that queſtion which we hear of, either part to be agitate with greater vehe<g ref="char:EOLhyphen"/>mency then well liketh us: to wit, whether that ſuch apparel is to be counted amongſt things that are ſimple indifferent or not, but in the bowels of the Lord Jeſus we crave that Chriſtian charity may ſo prevail in you, we ſay, the Paſtors and leaders of the flock within that Realm.</p>
+            <p>That ye do not to others that which you would not others ſhould do to you. Ye cannot be ignorant how tender a thing the conſcience of man is. All that have know<g ref="char:EOLhyphen"/>ledg are not a like perſwaded, your con<g ref="char:EOLhyphen"/>ſciences reclaimes not at wearing of ſuch garments, but many thouſands both godly and learned, are otherwiſe perſwaded, whoſe conſciences are continually ſtricken with theſe ſentences; what hath Chriſt Jeſus to do with <hi>Belial?</hi> What fellowſhip is there betwixt darkneſs and light? If Surpluce, Corner cap, and Tippit have been badges of Idolaters in the very act of their Idolatry, what hath the preachers of Chriſtian liberty, and the open rebuker of all Superſtition to
+<pb n="14" facs="tcp:168951:13"/>do with the dregs of the Romiſh Beaſt? Our brethren that of Conſcience refuſe that unprofitable apparel, do neither damne yours, or moleſt you that uſe ſuch vain tri<g ref="char:EOLhyphen"/>fles: If you ſhall do the like to them, we doubt not but therein ye ſhall pleaſe God, and comfort the hearts of many which are wounded with extremity, which is uſed againſt thoſe godly, and our beloved bre<g ref="char:EOLhyphen"/>thren. Colour of Rhetorick, or manly per<g ref="char:EOLhyphen"/>ſwaſion will we uſe none, but charitably we deſire you to call that ſentence of pitty to mind: Feed the flock of God which is committed to your charge, caring for them, not by conſtraint, but willingly, not as though ye were Lords over Gods Heritage, but that ye may be examples to the flock. And further alſo, we deſire you to meditate that ſentence of the Apoſtle ſaying, Give none offence, neither to the Jews, nor to the Grecians, nor to the Church of God. In what condition of time ye and we both tra<g ref="char:EOLhyphen"/>vel in the promoting of Chriſts Kingdome, we ſuppoſe you not to be ignorant. And therefore we are more bold to exhort you to walk more circumſpectly, then that for ſuch varities, the godly ſhould be troubled. For all things that may ſeem lawful, edifie not. If the Commandement of authority urge the conſcience of yours and our brethren
+<pb n="22" facs="tcp:168951:13"/>more then they can bear; we unfainedly crave of you, that ye remember that ye are called the light of the world and the earth:</p>
+            <p>All civil authority hath not the light of God alwayes ſhining before their eyes in the Statutes and commandements, but their affections oft-time, ſavour too much of the earth, and of worldly wiſdome.</p>
+            <p>And therefore we think that ye ſhould boldly oppone your ſelves to all power, that will or dare extol it ſelf, not onely againſt God, but alſo againſt all ſuch as do burthen the conſciences of the faithful farther then God hath burthened them by his own word. But here in we confeſs our offence in that we have entered farther in reaſoning then we purpoſed and promiſed at the beginning. And therefore we ſhortly return to our for<g ref="char:EOLhyphen"/>mer humble ſupplication, which is, that our brethren, who among you refuſe the Ro<g ref="char:EOLhyphen"/>miſh rags, may find of you the Prelates ſuch favours, as our head and Maſter commands every one of his members to ſhew one to another, while we look to receive of your gentleneſs, not onely for that ye fear to of<g ref="char:EOLhyphen"/>fend Gods Majeſty, in troubling of your brethren for ſuch vain trifles. But alſo, be<g ref="char:EOLhyphen"/>cauſe ye will not refuſe the humble requeſts of us your brethren, and fellow Preachers of Chriſt Jeſus, in whom, albeit there appeare
+<pb n="26" facs="tcp:168951:14"/>no great worldly pomp, yet we ſuppoſe you will not ſo far deſpiſe us, but that ye will eſteem us to be of the number of thoſe that fight againſt that Roman Antichriſt, and travel that the kingdome of Chriſt Jeſus uni<g ref="char:EOLhyphen"/>verſally may be maintained and advanced. The dayes are evil. Iniquitie abounds. Chri<g ref="char:EOLhyphen"/>ſtian charitie (alas) is waxen cold. And therefore we ought the more diligently to watch. For the hour is uncertain, when the Lord Jeſus ſhall appear, before whom we your brethren, and ye may give an account of our adminiſtration.</p>
+            <p>And thus in concluſion, we once again crave favour to our brethren, which grant<g ref="char:EOLhyphen"/>ed, ye in the Lord ſhall command us in things of double more importance. The Lord Jeſus rule your hearts in his true fear to the end, and give unto you and unto us victory over that conjured enemy of all true Religion; to wit, over that Roman Anti<g ref="char:EOLhyphen"/>chriſt, whoſe wounded head Sathan by all meanes labours to cure again, but to de<g ref="char:EOLhyphen"/>ſtruction ſhall he, and his maintainers go by the power of the Lord Jeſus: To whoſe mighty power and protection we heartily commit you.</p>
+            <p>Subſcribed by the hands of Superinten<g ref="char:EOLhyphen"/>dents, one part of Miniſters, and ſcribed in our general Aſſemblies and fourth Seſſion
+<pb n="27" facs="tcp:168951:14" rendition="simple:additions"/>thereof, At <hi>Edenbrough,</hi> the 38, day of <hi>Decemb.</hi> 1566.</p>
+            <closer>
+               <signed>
+                  <hi>Your loving brethren and follow Preachers in Chriſt Jeſus.</hi>
+                  <list>
+                     <item>
+                        <hi>Jo. Craig.</hi>
+                     </item>
+                     <item>
+                        <hi>Da. Lyndeſay.</hi>
+                     </item>
+                     <item>
+                        <hi>Guil. Giſliſomus.</hi>
+                     </item>
+                     <item>
+                        <hi>Io. Spottiſwood.</hi>
+                     </item>
+                     <item>
+                        <hi>Io. Row.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Pont.</hi>
+                     </item>
+                     <item>
+                        <hi>Io. VViram.</hi>
+                     </item>
+                     <item>
+                        <hi>Iaco. Mailvil.</hi>
+                     </item>
+                     <item>
+                        <hi>Io. Erskin.</hi>
+                     </item>
+                     <item>
+                        <hi>Nic. Spital.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="note">
+            <p>Thus have you heard in theſe two letters, the indgments of thoſe excellent Churches of the <hi>French</hi> and <hi>Scottiſh</hi> touching the things in controverſie. Now if to theſe I ſhould add all other which are of the ſame judg<g ref="char:EOLhyphen"/>ment and of their opinion: the number of Churches would be ſo many, that the ad<g ref="char:EOLhyphen"/>verſaries would evidently ſee and perceive what ſmall cauſe they have to charge us thus with ſingularitie, as though we were poſt alone, and none to be of our opinion. And it may here alſo be noted, that the moſt ancienteſt fathers of this our own country,
+<pb n="28" facs="tcp:168951:15"/>as Maſter <hi>Coverdale,</hi> Maſter Doctor <hi>Tur<g ref="char:EOLhyphen"/>ner,</hi> Maſter <hi>Whitehead,</hi> and many others, ſome dead, ſome yet living, from whoſe mouths and pens, the urgers of theſe recei<g ref="char:EOLhyphen"/>ved firſt the light of the Goſpel, could ne<g ref="char:EOLhyphen"/>ver be brought to yeeld or conſent unto ſuch things as are now forced vvith ſo great extremity.</p>
+         </div>
+         <div type="judgment">
+            <pb n="29" facs="tcp:168951:15"/>
+            <head>The anſwer and judgment of that famous and excellent learned man Ma<g ref="char:EOLhyphen"/>ſter <hi>Iohn Calvin</hi> the late Paſtor of <hi>Gene<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a,</hi> touching the Book of England after that he had peruſed the ſame faithfully tranſlated out of Latin by Mr. <hi>Whittingham.</hi>
+            </head>
+            <head type="sub">To the godly and learned men, Maſler <hi>John Knox,</hi> and Maſter <hi>William Whitting<g ref="char:EOLhyphen"/>ham,</hi> his faithful brethren at <hi>Frankford, &amp;c.</hi>
+            </head>
+            <p>THis thing truly grieveth me very much, and it is a great ſhame that contention ſhould ariſe among brethren baniſhed and driven out of their country for one faith, and for that cauſe which onely ought to have holden you bound together, as it were with an holy band in this your diſperſion. For what might you do better in this dole<g ref="char:EOLhyphen"/>rous and miſerable plague, then (being pul<g ref="char:EOLhyphen"/>led
+<pb n="30" facs="tcp:168951:16"/>violently from your countrie) to pro<g ref="char:EOLhyphen"/>cure your ſelves a Church, which ſhould re<g ref="char:EOLhyphen"/>ceive and nouriſh you (being joyned toge<g ref="char:EOLhyphen"/>ther in minds and language) in her mother<g ref="char:EOLhyphen"/>ly lap? But now for ſome men to ſtrive as touching the forme of Prayer and for ceti<g ref="char:EOLhyphen"/>monies as though ye were at reſt and proſpe<g ref="char:EOLhyphen"/>rity, and to ſuffer that to be an impediment that ye cannot there joyne into one body of the Church (as I think) it is too much out of ſeaſon.</p>
+            <p>Yet notwithſtanding I allow their con<g ref="char:EOLhyphen"/>ſtancie which ſtrive for a juſt cauſe, being forced againſt their wills unto conten<g ref="char:EOLhyphen"/>tion. I do worthily condemne froward<g ref="char:EOLhyphen"/>neſs, which doth hinder and ſtay the ho<g ref="char:EOLhyphen"/>ly carefulneſs of reforming the Church.</p>
+            <p>And as I behave my ſelf gentle and tra<g ref="char:EOLhyphen"/>ctable in mean things (as external Ceremo<g ref="char:EOLhyphen"/>nies) ſo do I not always judg it profitable to give place to the fooliſh ſtoutneſs, which will forſake nothing of their own wonted cuſtome. In the Liturgie of <hi>England,</hi> I ſee that there were many tolerable fooliſh things; by theſe words I mean,
+<note place="margin">Manyt lera<g ref="char:EOLhyphen"/>ble fooliſh things in the book by <hi>Cal<g ref="char:EOLhyphen"/>vins</hi> judgment</note> that there was not the puritie which was to be deſired. Theſe vices, though they could not at the firſt day be amended, yet ſeeing there was manifeſt impietie, they were for a ſeaſon to be tolera<g ref="char:EOLhyphen"/>ted. Therefore, it was lawful to begin of
+<pb n="13" facs="tcp:168951:16"/>ſuch rudiments or Abſedaries, but ſo, that it behoved the learned, grave and godly Mi<g ref="char:EOLhyphen"/>niſters of Chriſt to enterpriſe farther, and ſo ſet forth ſomething more filed from ruſt, and purer. If godly Religion had flouriſhed till this day in England, there ought to have been a thing better corrected and many things clean taken away. Now, when theſe principles be overthrown, a Church muſt be ſet up in another place, where ye may free<g ref="char:EOLhyphen"/>ly make an order again, which ſhall be ap<g ref="char:EOLhyphen"/>parent to be moſt commodious to the uſe and edification of the Church. I cannot tell what they mean, which ſo greatly delight in the leavings of Popiſh dregs.
+<note place="margin">The book tri<g ref="char:EOLhyphen"/>ſling and chil<g ref="char:EOLhyphen"/>diſh by <hi>Calvins</hi> judgment.</note> They love the things whereunto they are accuſtomed. Firſt of all, this is a thing both trifling and chil<g ref="char:EOLhyphen"/>diſh. Furthermore, this new Order far dif<g ref="char:EOLhyphen"/>fereth from a change.</p>
+            <p>Therefore, as I would not have you fierce over them whoſe infirmity will not ſuffer to aſſend an higher ſtep: So would I adve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tiſe other, that they pleaſe not themſelves too much in their fooliſhneſs. Alſo, that by their frowardneſs, they do not let the courſe of the holy building, Laſt of all, leſt that fooliſh vain-glory ſteal them away. For what cauſe have they to contend, except it be for that they are aſhamed to give place to better things? But I ſpeak in vain to them
+<pb n="18" facs="tcp:168951:17"/>which perchance eſteem me not ſo well, as they will vouchſafe to admit the counſel that cometh from ſuch an author. If they fear the evil rumour in <hi>England,</hi> as though they had fallen from that Religion, which was the cauſe of their baniſhment, they are far de<g ref="char:EOLhyphen"/>ceived, for this true and ſincere Religion will rather compel them that there remain, faith<g ref="char:EOLhyphen"/>fully to conſider into what deep gulf they have fallen. For their downfal ſhall more grievouſly wound them, when they perceive your going forward beyond mid courſe, from the which they are turned. Far-ye wel dear<g ref="char:EOLhyphen"/>ly beloved brethren, and faithful Servants of Chriſt, the Lord defend and govern you,</p>
+            <closer>
+               <dateline>From <hi>Geneva</hi> 
+                  <date>22. <hi>Ian.</hi> 1555.</date>
+               </dateline>
+               <signed>Yours <hi>IOHN CALVIN.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
